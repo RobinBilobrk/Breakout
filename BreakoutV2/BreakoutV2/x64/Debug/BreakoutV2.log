@@ -1,0 +1,19 @@
+﻿  main.cpp
+D:\Projects\VS\BreakoutV2\BreakoutV2\time.h(9,11): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+D:\Projects\VS\BreakoutV2\BreakoutV2\main.cpp(222,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\VS\BreakoutV2\BreakoutV2\main.cpp(222,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\VS\BreakoutV2\BreakoutV2\main.cpp(222,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\VS\BreakoutV2\BreakoutV2\main.cpp(222,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\VS\BreakoutV2\BreakoutV2\main.cpp(223,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\VS\BreakoutV2\BreakoutV2\main.cpp(223,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\VS\BreakoutV2\BreakoutV2\main.cpp(223,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\VS\BreakoutV2\BreakoutV2\main.cpp(223,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\VS\BreakoutV2\BreakoutV2\main.cpp(229,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\VS\BreakoutV2\BreakoutV2\main.cpp(229,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\VS\BreakoutV2\BreakoutV2\main.cpp(229,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\VS\BreakoutV2\BreakoutV2\main.cpp(229,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\VS\BreakoutV2\BreakoutV2\main.cpp(230,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\VS\BreakoutV2\BreakoutV2\main.cpp(230,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\VS\BreakoutV2\BreakoutV2\main.cpp(230,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\VS\BreakoutV2\BreakoutV2\main.cpp(230,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  BreakoutV2.vcxproj -> D:\Projects\VS\BreakoutV2\x64\Debug\BreakoutV2.exe
